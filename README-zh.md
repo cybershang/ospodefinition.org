@@ -2,7 +2,7 @@
 [![License: CC BY SA 4.0](https://img.shields.io/badge/License-CC_BY_SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![GH Discussions](https://img.shields.io/badge/OSPO-Discussions-green)](https://github.com/todogroup/ospology/discussions)
 
-# 开源项目办公室 (OSPO) 定义及指南
+# 开源办公室 (OSPO) 定义及指南
 
 开源[与现代科技的发展密不可分](https://openforumeurope.org/open-source-impact-study/)，并作为所有行业和技术领域（如人工智能、机器学习或网络安全）的大多数代码库的基础。
 
@@ -84,7 +84,7 @@
 * 确保公司能够有效的在商业产品和服务中使用开源软件
 * 参与开发者社区，鼓励采纳战略性开源项目
 
-*每个开源办公室都是根据商业，产品和货物的不同需求而定制的。*
+*每个开源办公室都是根据业务，产品和目标的不同需求而定制的。*
 
 ***
 ## 开源办公室全景图
